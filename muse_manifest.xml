@@ -1,25 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.universomusical.us" resolutions="1x" timestamp="1557248665656">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.universomusical.us" resolutions="1x" timestamp="1557288981474">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3989565360" ref="index"/>
-    <file name="_qui_nes-somos.css" crc="107159025" ref="¿quiénes-somos"/>
-    <file name="contacto.css" crc="4112787560" ref="contacto"/>
+    <file name="index.css" crc="141696273" ref="index"/>
+    <file name="contacto.css" crc="117594561" ref="contacto"/>
+    <file name="nosotros.css" crc="232524478" ref="nosotros"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:¿quiénes-somos:contacto"/>
-    <file name="museutils.js" crc="163421577" ref="index:¿quiénes-somos:contacto"/>
-    <file name="whatinput.js" crc="86476730" ref="index:¿quiénes-somos:contacto"/>
-    <file name="museconfig.js" crc="168988563" ref="index:¿quiénes-somos:contacto"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:¿quiénes-somos:contacto"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:¿quiénes-somos:contacto"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:¿quiénes-somos:contacto"/>
-    <file name="require.js" crc="244322403" ref="index:¿quiénes-somos:contacto"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:nosotros"/>
+    <file name="museutils.js" crc="163421577" ref="index:contacto:nosotros"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contacto:nosotros"/>
+    <file name="museconfig.js" crc="168988563" ref="index:contacto:nosotros"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:contacto:nosotros"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:contacto:nosotros"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contacto:nosotros"/>
+    <file name="require.js" crc="244322403" ref="index:contacto:nosotros"/>
   </folder>
   <folder name="images">
-    <file name="logouniversomusical.png" crc="4204731108" seo="true" ref="index:¿quiénes-somos:contacto"/>
-    <file name="logobks-crop-u124.jpg" crc="4034088248" ref="index"/>
+    <file name="logouniversomusical.png" crc="103166774" seo="true" ref="index:contacto:nosotros"/>
+    <file name="logobks.jpg" crc="4026136057" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="42869998" seo="true" mt="1557248485317" redirect="true"/>
-  <file name="¿quiénes-somos.html" crc="211498622" seo="true" mt="1557248512951" redirect="true"/>
-  <file name="contacto.html" crc="3859997627" seo="true" mt="1557248644986" redirect="true"/>
+  <file name="index.html" crc="3909376381" seo="true" mt="1557288821688" redirect="true"/>
+  <file name="contacto.html" crc="148009101" seo="true" mt="1557288887852" redirect="true"/>
+  <file name="nosotros.html" crc="355817855" seo="true" mt="1557288351033" redirect="true"/>
 </manifest>
