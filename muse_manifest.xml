@@ -1,9 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.universomusical.us" resolutions="1x" timestamp="1557289532349">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.universomusical.us" resolutions="1x" timestamp="1557290432119">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="166340244" ref="index"/>
-    <file name="contacto.css" crc="4207421914" ref="contacto"/>
-    <file name="nosotros.css" crc="3987333743" ref="nosotros"/>
+    <file name="index.css" crc="3914787389" ref="index"/>
+    <file name="contacto.css" crc="4091191670" ref="contacto"/>
+    <file name="nosotros.css" crc="3889586196" ref="nosotros"/>
+    <file name="nomq_index.css" crc="4236043819" ref="index"/>
+    <file name="nomq_nosotros.css" crc="219150982" ref="nosotros"/>
+    <file name="nomq_contacto.css" crc="4102069666" ref="contacto"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contacto:nosotros"/>
@@ -14,12 +17,14 @@
     <file name="jquery.watch.js" crc="104486786" ref="index:contacto:nosotros"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:contacto:nosotros"/>
     <file name="require.js" crc="244322403" ref="index:contacto:nosotros"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:nosotros:contacto"/>
   </folder>
   <folder name="images">
-    <file name="logouniversomusical.png" crc="275260338" seo="true" ref="index:contacto:nosotros"/>
+    <file name="logouniversomusical.png" crc="4169171495" seo="true" ref="index:contacto:nosotros"/>
     <file name="logobks.jpg" crc="4026136057" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:nosotros:contacto"/>
   </folder>
-  <file name="index.html" crc="39491622" seo="true" mt="1557289450345" redirect="true"/>
-  <file name="contacto.html" crc="3921451494" seo="true" mt="1557289499843" redirect="true"/>
-  <file name="nosotros.html" crc="3803340342" seo="true" mt="1557289511130" redirect="true"/>
+  <file name="index.html" crc="4214533573" seo="true" mt="1557290284215" redirect="true"/>
+  <file name="contacto.html" crc="3822104361" seo="true" mt="1557290272526" redirect="true"/>
+  <file name="nosotros.html" crc="4247706785" seo="true" mt="1557290278515" redirect="true"/>
 </manifest>
